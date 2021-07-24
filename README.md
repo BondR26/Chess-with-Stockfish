@@ -11,4 +11,7 @@ To escape from game you press Escape.
 
 When checkmate happens you will see appropriate image.
 
+By the way, 
+there are a few adjacments you would have to make in order for this game to work;
+Install and include SFML library and properly connect all the images and sounds used for the game.
 
